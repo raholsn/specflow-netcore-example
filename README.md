@@ -1,6 +1,6 @@
 # specflow-netcore-reproduction
 
-Trying out specflow 3 on a basic example in netcore 2.1
+Trying out specflow 3 on a basic example in netcore 2.2
 
 * specflow.xunit for specflow with xunit 
 * fluentassertions for easy to read assertion
